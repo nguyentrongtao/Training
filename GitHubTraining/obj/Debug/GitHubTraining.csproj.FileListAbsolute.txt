@@ -1,0 +1,6 @@
+D:\Workspace\Training\GitHubTraining\bin\GitHubTraining.dll.config
+D:\Workspace\Training\GitHubTraining\bin\GitHubTraining.dll
+D:\Workspace\Training\GitHubTraining\bin\GitHubTraining.pdb
+D:\Workspace\Training\GitHubTraining\obj\Debug\GitHubTraining.csprojResolveAssemblyReference.cache
+D:\Workspace\Training\GitHubTraining\obj\Debug\GitHubTraining.dll
+D:\Workspace\Training\GitHubTraining\obj\Debug\GitHubTraining.pdb
